@@ -1,5 +1,7 @@
 import sys
-num = random()
+import random
+data = random.random()
 
-print(num)
+
+print(data)
 sys.stdout.flush()
